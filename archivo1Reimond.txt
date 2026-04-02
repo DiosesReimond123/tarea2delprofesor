@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 linea anadida en la tarea
+=======
+linea añadida en local en la tarea
+>>>>>>> f105a508286103732372fead0a1960fe365186a7
