@@ -1,1 +1,2 @@
 Este archivo fue creado como tarea de sincronizacion.
+Linea añadida en local en la tarea.
